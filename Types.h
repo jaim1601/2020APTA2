@@ -1,0 +1,36 @@
+#ifndef TYPES_H
+#define TYPES_H
+
+#define MAX_TILES_IN_TILEBAG 100
+#define TYPES_OF_TILES 5
+#define PLAYER_MOSAIC_SIZE 5
+#define MOSAIC_ARRAY_LIMIT 4
+#define RIGHT_MOST_POSITION 4
+#define MAX_TILES_IN_FACTORY 4
+#define STARTING_TILES_IN_FACTORY 20
+#define MAX_TURNS 5
+#define TOTAL_GAME_TURNS 10
+
+#define FULL_COUNT 5
+#define COL_COMPLETED 7
+#define ROW_COMPLETED 2
+#define TILE_COMPLETED 10
+
+#define ONE_POINT_REDUCTION_CAP 2
+#define TWO_POINT_REDUCTION_CAP 5
+#define THREE_POINT_REDUCTION_CAP 7
+#define MAX_AMOUNT_OF_POINTS_LOST -14
+
+#define RED 'R'
+#define YELLOW 'Y'
+#define DARKBLUE 'B'
+#define LIGHTBLUE 'L'
+#define BLACK 'U'
+#define FIRSTPLAYER 'F'
+#define NOTILE '.'
+#define EMPTY ' '
+
+#define PLAYER1 1
+#define PLAYER2 2
+
+#endif //TYPES_H

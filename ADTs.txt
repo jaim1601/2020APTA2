@@ -1,0 +1,6 @@
+
+For our ADTs We decided to use
+
+    - Vectors: Factories / Broken mosaic
+    - Array: Storage Mosaic / Play Mosaic
+    - Linked-list: Tile bag

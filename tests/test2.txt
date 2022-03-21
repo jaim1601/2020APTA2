@@ -1,0 +1,18 @@
+5
+2
+3
+1
+1238 Jaim
+5 5 5
+A A A
+0 W 2
+Jaim
+0 F 1
+4 Y 3
+1 B 2
+5 L 3
+22 h 881 a
+ww 54hhh 221 s
+0 adnow 3
+0 1d1dn8 5
+^d
